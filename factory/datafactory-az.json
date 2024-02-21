@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-az",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "523af3cd-747e-418b-99d5-873eb721dbd3",
+		"tenantId": "78cb144c-fd63-4b9f-b0d1-c6c27fc21e66"
+	}
+}
