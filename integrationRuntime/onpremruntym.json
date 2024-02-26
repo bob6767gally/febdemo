@@ -1,0 +1,6 @@
+{
+	"name": "onpremruntym",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
