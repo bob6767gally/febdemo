@@ -1,0 +1,17 @@
+{
+	"name": "samp_emp",
+	"properties": {
+		"description": "getting data from emp",
+		"linkedServiceName": {
+			"referenceName": "Oracle_linkedserv",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "OracleTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "STUDENT",
+			"table": "SF_EMP"
+		}
+	}
+}
